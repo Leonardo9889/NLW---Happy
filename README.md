@@ -1,3 +1,3 @@
 # NLW---Happy
 -------INICIAR -------
-NPM INSTALL
+npm install 
